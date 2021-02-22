@@ -1,0 +1,10 @@
+it\com\stefanobestetti\MaxNumber.class
+it\com\stefanobestetti\NumberGenerator.class
+it\com\stefanobestetti\GameImpl.class
+it\com\stefanobestetti\GuessCount.class
+it\com\stefanobestetti\Game.class
+it\com\stefanobestetti\NumberGeneratorImpl.class
+it\com\stefanobestetti\MessageGeneratorImpl.class
+it\com\stefanobestetti\MinNumber.class
+it\com\stefanobestetti\config\GameConfig.class
+it\com\stefanobestetti\MessageGenerator.class
